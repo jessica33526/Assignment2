@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body{
+	background-color: #f2f2f2;
+}
+
+.navbar{
+	background-color:#262626;
+	color: #ff9933;
+}
+
+.navbar-nav > li > a {
+  color: #ff9933;
+}
+
+.navbar-brand{
+	color: #ff9933;
+}
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: white;
+  background-color: transparent;
+}
+
+.carausel-inner .item active{
+	height: 60em;
+}
+
+.carausel-inner .item{
+	height: 60em;
+}
+
+.carousel-caption h1{
+	font-family:"Courier New", Courier, monospace;
+	font-size:50px;
+	font-weight:bold;
+	color: white;
+}
+.carousel-caption p{
+	font-size:20px;
+}
+
+.footer{
+	display:block;
+	bottom: 0px;
+	margin-right: 15px;
+	margin-left:15px;
+}
+
+
+.bg-1 { 
+      background-color: #ff9933;
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color:#262626 ;
+      color: #ffffff;
+  }
+
+  .container-fluid {
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+
+.wrapper{
+	background-color: #ff9933;
+	padding: 15px;
+	border-radius:4px;
+}
+
+.page-header{
+	color:white;
+}
+
+.col-md-4{
+	color:white;
+}
+
+.wrapper-2{
+	background-color:#1a1a1a;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right:15px;
+	padding-bottom:15px;
+}
+
+
+
+
+
+
